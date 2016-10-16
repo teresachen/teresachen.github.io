@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  background-color: #white;
+}
+.thumbnail {
+  width: 100%
+}
+  .firstSegment {
+    height: 100vh;
+    padding-top: 10%;
+  }
+    .cover-photo {
+      width:100%;
+      height: auto;
+    }
+  .secondSegment {
+    min-height: 35em;
+  }
+
+  footer {
+    background-color: #5F473F !important;
+    height: 15em;
+    color: white;
+    padding: 7.5% !important;
+    text-align: center;
+    font-style: 'avenir';
+  }
+  footer p {
+    font-size: 12px;
+  }
+  .ui.top.fixed.menu {
+    opacity: 0.8;
+    background-color: #A77E72;
+  }
+
