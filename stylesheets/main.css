@@ -13,8 +13,9 @@ body {
   width: 75%
 }
   .firstSegment {
-    height: 100vh;
-    padding-top: 10%;
+    height: 85vh;
+    padding-top: 15%;
+    background-color: #f6f0ea;
   }
     .cover-photo {
       width:100%;
@@ -32,8 +33,16 @@ body {
   .quoteby {
     margin-top: 0;
   }
+  .featured-photo {
+    width: 75%;
+    height: auto;
+  }
+  .secondSegment {
+    padding-top: 8%;
+  }
 
   footer {
+    margin-top: 10% !important;
     background-color: #5F473F !important;
     height: 15em;
     color: white;
