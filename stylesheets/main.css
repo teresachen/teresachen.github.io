@@ -9,6 +9,9 @@ body {
   padding: 0px;
   background-color: #white;
 }
+h1 {
+  padding-top: 5%;
+}
 .thumbnail {
   width: 75%
 }
@@ -38,9 +41,10 @@ body {
     height: auto;
   }
   .secondSegment {
-    padding-top: 8%;
   }
-
+  .photo-segment {
+    padding-top: 5%;
+  }
   footer {
     margin-top: 10% !important;
     background-color: #5F473F !important;
