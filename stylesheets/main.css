@@ -23,6 +23,15 @@ body {
   .secondSegment {
     min-height: 35em;
   }
+  .seven.wide.column {
+    padding-top: 10em;
+  }
+  .quote {
+    margin-bottom:0;
+  }
+  .quoteby {
+    margin-top: 0;
+  }
 
   footer {
     background-color: #5F473F !important;
