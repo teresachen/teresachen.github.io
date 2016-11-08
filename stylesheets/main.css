@@ -10,8 +10,17 @@ body {
   padding: 0px;
   background-color: #white;
 }
+.menu {
+  height: 5em !important;
+}
 h1 {
   padding-top: 5%;
+  font-family: "Georgia";
+  font-style: italic;
+}
+h2 {
+  font-family: "Georgia";
+  font-style: italic;
 }
 h5 {
   font-weight: normal;
@@ -36,12 +45,14 @@ a {
     min-height: 35em;
   }
   .seven.wide.column {
-    padding-top: 10em;
+    top: 5em;
   }
   .quote {
+    font-family: "Didot";
     margin-bottom:0;
   }
   .quoteby {
+    font-family: "Didot";
     margin-top: 0;
   }
   .featured-photo {
